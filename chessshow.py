@@ -3,7 +3,6 @@ import chess.svg
 import re
 import chess
 import tkinter
-import urllib.request
 import io
 import json
 import os
